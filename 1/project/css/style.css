@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: end;
+}
+.header .btn-cart {
+  margin-right: 50px;
+  padding: 5px;
+}
+
+.products {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.product-item {
+  border: 1px solid black;
+  padding: 10px;
+}
+.product-item img {
+  width: 150px;
+}
+.product-item h3 {
+  text-align: center;
+  margin: 10px;
+}
+.product-item div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.product-item div p {
+  margin: 10px;
+}
+.product-item div button {
+  padding: 5px;
+}/*# sourceMappingURL=style.css.map */
