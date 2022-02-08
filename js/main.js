@@ -4,7 +4,7 @@ class ProductList {
         this.goods = [];
         this._fetchProducts();//рекомендация, чтобы метод был вызван в текущем классе
         this.render();//вывод товаров на страницу
-        this.getSum();
+        this.getSum();// Вывод общей суммы товаров в консоль
     }
     _fetchProducts() {
         this.goods = [
