@@ -1,0 +1,38 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "A",
+    "price": 52.99,
+    "img": "img/card1.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "B",
+    "price": 12.99,
+    "img": "img/card2.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "C",
+    "price": 83.99,
+    "img": "img/card3.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "D",
+    "price": 52.99,
+    "img": "img/card4.jpg"
+  },
+  {
+    "id_product": 5,
+    "product_name": "E",
+    "price": 232.99,
+    "img": "img/card5.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "F",
+    "price": 87.99,
+    "img": "img/card6.jpg"
+  }
+]
